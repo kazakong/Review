@@ -21,3 +21,22 @@ fun main(){
         i++
     }
 }output.write($availbleData)
+
+//처음 작성했던 코드
+//
+//fun main () {
+//
+//    val x = readLine()!!.toInt()
+//    val n = readLine()!!.toInt()
+//
+//    for (i in 0 until x || i in 0 < until n) {
+//        var used = 0
+//        repeat(n) {
+//            used += readLine()!!.toInt()
+//        }
+//        val result = x * (n + 1) - used
+//        println(result)
+//
+//
+//    }
+//}
